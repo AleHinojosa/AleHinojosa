@@ -5,15 +5,15 @@
 Hola soy Alejandra Hinojosa, actualmente me encuentro cursando la carrera de Ing. en Tecnologías de la Información y Comunicaciones en el Instituto Tecnológico de Tijuana Unidad Tomás Aquino
 
 Horario semestre Agosto - Diciembre 2021
-|  Lunes | Martes  |  Miercoles | Jueves  |  Viernes |
-|---|---|---|---|---|
-|  Analisis de Señales y Sistemas de Comunicacion | Analisis de Señales y Sistemas de Comunicacion  | Analisis de Señales y Sistemas de Comunicacion | Analisis de Señales y Sistemas de Comunicacion  | Analisis de Señales y Sistemas de Comunicacion  | Analisis de Señales y Sistemas de Comunicacion  |
-| Ingenieria del Conocimiento  | Ingenieria del Conocimiento  | Ingenieria del Conocimiento  | Ingenieria del Conocimiento  |   |
-| Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  |
-| Arquitectura de Computadoras  | Arquitectura de Computadoras  | Arquitectura de Computadoras  | Arquitectura de Computadoras  |   |
-| Taller de Investigacion II  | Taller de Investigacion II  | Taller de Investigacion II  | Taller de Investigacion II  |  |
-| Interaccion Humano Computadora  | Negocios Electronicos I  | Interaccion Humano Computadora  | Negocios Electronicos I  |   |
-| Interaccion Humano Computadora  | Negocios Electronicos I  | Interaccion Humano Computadora  | Negocios Electronicos I  |   |
+|     |  Lunes | Martes  |  Miercoles | Jueves  |  Viernes |
+|---|---|---|---|---|---|
+| 14:00 |  Analisis de Señales y Sistemas de Comunicacion | Analisis de Señales y Sistemas de Comunicacion  | Analisis de Señales y Sistemas de Comunicacion | Analisis de Señales y Sistemas de Comunicacion  | Analisis de Señales y Sistemas de Comunicacion  | Analisis de Señales y Sistemas de Comunicacion  |
+| 15:00 | Ingenieria del Conocimiento  | Ingenieria del Conocimiento  | Ingenieria del Conocimiento  | Ingenieria del Conocimiento  |   |
+| 16:00 | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  | Desarrollo de Aplicaciones para Dispositivos Moviles  |
+| 17:00 | Arquitectura de Computadoras  | Arquitectura de Computadoras  | Arquitectura de Computadoras  | Arquitectura de Computadoras  |   |
+| 18:00 | Taller de Investigacion II  | Taller de Investigacion II  | Taller de Investigacion II  | Taller de Investigacion II  |  |
+| 19:00 | Interaccion Humano Computadora  | Negocios Electronicos I  | Interaccion Humano Computadora  | Negocios Electronicos I  |   |
+| 20:00 | Interaccion Humano Computadora  | Negocios Electronicos I  | Interaccion Humano Computadora  | Negocios Electronicos I  |   |
 
 
 
