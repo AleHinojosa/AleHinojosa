@@ -15,7 +15,7 @@ Horario semestre Agosto - Diciembre 2021
 | 19:00 | Interaccion Humano Computadora  | Negocios Electronicos I  | Interaccion Humano Computadora  | Negocios Electronicos I  |   |
 | 20:00 | Interaccion Humano Computadora  | Negocios Electronicos I  | Interaccion Humano Computadora  | Negocios Electronicos I  |   |
 
-
+Gits: https://github.com/AleHinojosa/Alejandra-Hinojosa
 
 
 
